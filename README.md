@@ -239,6 +239,7 @@ Proyecto desarrollado para la Facultad de Ciencias e Ingenierias Fisicas y Forma
 - Limache Quispe Felix Fabricio
 - Mollo Huayhua Luis Felipe
 - Vega Mamani Anthony Yerson
+- Rodríguez Fádel, Gian Piero Khalil
 
 ## Referencias
 
