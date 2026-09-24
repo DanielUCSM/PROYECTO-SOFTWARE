@@ -14,8 +14,6 @@ Este proyecto se encuentra actualmente en TRL 3 (prueba de concepto a nivel anal
 - La arquitectura, los esquemas de datos y la logica algoritmica estan completamente disenados y validados analiticamente.
 - El contrato de API (endpoints, formatos de request/response, codigos de error) esta definido y documentado.
 
-Este README describe ese diseno: la arquitectura del microservicio y el contrato de API tal como fueron validados analiticamente.
-
 ## Descripcion
 
 En la gestion de redes, calcular subredes manualmente (hojas de calculo, calculadoras web) genera errores frecuentes: solapamiento de direcciones (IP overlap), desperdicio de bloques IPv4 y sobrecarga de tablas de enrutamiento por falta de sumarizacion.
