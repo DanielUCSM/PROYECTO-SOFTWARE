@@ -80,7 +80,7 @@ Respuesta 200 OK (JSON con detalle de red)
 - Ubuntu Server 24.04 LTS (contenedores)
 - Proxy inverso (Nginx / Traefik) sobre puerto 80/443
 
-## Contrato de API (diseno validado)
+## Contrato de API (diseño validado)
 
 Todos los endpoints operan bajo el prefijo `/api/v1`, con metodo `POST` y JSON en UTF-8.
 
